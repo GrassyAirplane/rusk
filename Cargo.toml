@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "rusk-core",
+    "rusk-sql",
+    "rusk-connectors",
+    "rusk-runtime",
+    "rusk-cli",
+    "rusk-examples"
+]
